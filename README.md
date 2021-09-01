@@ -5,4 +5,4 @@ tes commit
 push pertama
 
 
-NAMA / NIM
+Fajri Sahrul Qur'abi / 202410101046
